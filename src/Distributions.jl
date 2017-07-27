@@ -132,6 +132,8 @@ export
     Rayleigh,
     Semicircle,
     Skellam,
+    SkewNormalDP,
+    SkewNormalCP,
     SymTriangularDist,
     TDist,
     TriangularDist,
